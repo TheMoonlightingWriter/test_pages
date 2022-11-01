@@ -1,3 +1,6 @@
+---
+sidebar_position: 1
+---
 An h1 header
 ============
 
