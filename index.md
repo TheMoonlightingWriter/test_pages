@@ -8,6 +8,7 @@ test change #1
 
 resolve a conflict - branch
 
+@@@@@ creating a conflict, line 1
 
 **Adding YET another change to the outstanding second PR **
 
@@ -15,6 +16,8 @@ resolve a conflict - branch
 **Adding another change to the outstanding second PR **
 
 Paragraphs are separated by a blank line.
+@@@@@ creating a conflict, line 2
+
 
 2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
 look like:
