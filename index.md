@@ -12,11 +12,16 @@ resolve a conflict - branch
 
 
 **Adding YET another change to the outstanding second PR **
+creating a conflict in main
+
 
 
 **Adding another change to the outstanding second PR **
 
 Paragraphs are separated by a blank line.
+creating a conflict in main
+
+
 
 2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
 look like:
