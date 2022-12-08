@@ -4,7 +4,10 @@ sidebar_position: 1
 An h1 header - update
 ============
 
-Main change #1
+test change #1
+
+resolve a conflict - branch
+
 
 **Adding YET another change to the outstanding second PR **
 
