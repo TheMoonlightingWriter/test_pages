@@ -4,6 +4,8 @@ sidebar_position: 1
 An h1 header - update
 ============
 
+creating a conflict in main
+
 test change #1
 
 resolve a conflict - branch
