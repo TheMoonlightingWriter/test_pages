@@ -10,6 +10,7 @@ test change #1
 
 resolve a conflict - branch
 
+@@@@@ creating a conflict, line 1
 
 **Adding YET another change to the outstanding second PR **
 creating a conflict in main
@@ -19,7 +20,7 @@ creating a conflict in main
 **Adding another change to the outstanding second PR **
 
 Paragraphs are separated by a blank line.
-creating a conflict in main
+@@@@@ creating a conflict, line 2
 
 
 
